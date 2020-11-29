@@ -1,0 +1,7 @@
+{
+  "name": "youtubesearch-app",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
